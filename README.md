@@ -3,7 +3,7 @@ Nallitrack is a SaaS solution for managing track and field meets and teams. It i
 	user: demo 
 	password: RtrdTZdWos)3
 
-There's sample data here, so to find some search for a meet entering the following criteria
+There's sample data here. To find some search for a meet entering the following criteria
 	date range - select month, then select either mar, apr, or may of 2012
 	State - select georgia
 
