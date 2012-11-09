@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|table-images|js|robots\.txt|css|captcha)
+RewriteRule ^(.*)$ index.php/$1 [L]
+AuthType Basic
+AuthName "NalliTrack"
+AuthUserFile "/home/nallimc1/.htpasswds/public_html/nallitrack/web/passwd"
+require valid-user
