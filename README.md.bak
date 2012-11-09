@@ -19,7 +19,7 @@ Public facing css, images and javascript go here.  However, the actual PHP appli
 
 application
 -----------
-Here’s where the nallitrack PHP application resides, with the bulk of the application specific code in the "models", "views", or "controllers" directories. CodeIgniter is based on the Model-View-Controller development pattern, but implements a fairly loose approach since Models are not required. Here are the controllers and their public methods. As you browse through the site you'll see a direct relationship between the URL and list below.
+Here's where the nallitrack PHP application resides, with the bulk of the application specific code in the "models", "views", or "controllers" directories. CodeIgniter is based on the Model-View-Controller development pattern, but implements a fairly loose approach since Models are not required. Here are the controllers and their public methods. As you browse through the site you'll see a direct relationship between the URL and list below.
 
 controller	public methods										parameters
 ----------	--------------										----------
