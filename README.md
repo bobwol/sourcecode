@@ -1,6 +1,6 @@
-SAMPLE APPLICATION - Nallitrack
+<h2>SAMPLE APPLICATION - Nallitrack</h2>
 
-Nallitrack is a SaaS solution for managing track and field meets and teams. It is built on the LAMP technology stack, and uses the PHP development framework "CodeIgniter" (http://Codeigniter.com). Feel free to browse the site http:codeigniter.nallimcmerdna.com.
+Nallitrack is a SaaS solution for managing track and field meets and teams. It is built on the LAMP technology stack, and uses the PHP development framework "CodeIgniter" (http://Codeigniter.com). Feel free to browse the site at (http://codeigniter.nallimcmerdna.com).
 
 
 There's sample data here. To find some, search for a meet entering the following criteria
@@ -24,45 +24,87 @@ Here's where the nallitrack PHP application resides, with the bulk of the applic
 controller	public methods
 ----------	--------------
 go/	
+
 go/		view/
+
 Dashboard/	
+
 Account/	
+
 Account/	login/
+
 Account/	logout/
+
 Account/	register/
+
 Account/	send_again/
+
 Account/	activate/
+
 Account/	forgot_password/
+
 Account/	reset_password/
+
 Account/	change_password/
+
 Account/	change_email/
+
 Account/	reset_email/
+
 Account/	unregister/
+
 Account/	change_status/
+
 Meet/		
+
 Meet/		search/
+
 Meet/		search_results/
+
 Meet/		report/
+
 Meet/		edit/
+
 Meet/		delete/
+
 Meet/		add_to_schedule/
+
 Meet/		remove_from_schedule/
+
 Meet/		generate_event_sched/
+
 Meet/		regenerate_event_sched/
+
 Meet/		adjust_event_sched/
+
 Meet/		assign_my_athletes/
+
 Meet/		edit_my_assignments/
+
 Meet/		record_results/
+
 Meet/		archive/
+
 Meet/		restore_archive/
+
 Athlete/	
+
 Athlete/	search/
+
 Athlete/	search_results/
+
 Athlete/	report/
+
 Athlete/	edit/
+
 Athlete/	delete/
+
 Athlete/	edit_events/
+
 Team/	
+
 Team/		search/
+
 Team/		search_results/
+
 Team/		edit/
