@@ -1,6 +1,6 @@
 <h2>SAMPLE APPLICATION - Nallitrack</h2>
 
-Nallitrack is a SaaS solution for managing track and field meets and teams. It is built on the LAMP technology stack, and uses the PHP development framework "CodeIgniter" (http://Codeigniter.com). Feel free to browse the site at (http://codeigniter.nallimcmerdna.com).
+Nallitrack is a SaaS solution for managing track and field meets and teams. It is built on the LAMP technology stack, and uses the PHP development framework "CodeIgniter" (http://Codeigniter.com). Feel free to browse the Nallitrack web application at (http://codeigniter.nallimcmerdna.com).
 
 
 There's sample data here. To find some, search for a meet entering the following criteria
